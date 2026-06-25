@@ -1,4 +1,4 @@
-# rahmanrizvi
+# rahmanosd
 <img width="1920" height="1080" alt="picture" src="https://github.com/user-attachments/assets/631e8826-d416-4594-ab8e-88ccb2be0ba9" />
 <div align="center">
 
