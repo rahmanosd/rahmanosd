@@ -42,7 +42,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=abusaiyedjoy&theme=dark"
+    src="https://streak-stats.demolab.com?user=rahmanosd&theme=dark"
     alt="GitHub Streak"
   />
 </p>
@@ -52,8 +52,8 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abusaiyedjoy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusaiyedjoy&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahmanosd&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanosd&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Payment:** Stripe integration
 - **Mobile:** Capacitor (Android/iOS), PWA
 
-🔗 **[Live Demo](https://carenest-web.vercel.app)** | **[Source Code](#)**
+🔗 **[Live Demo](https://carenest-web.vercel.app)** | **[](#)**
 
 ---
 
@@ -162,13 +162,13 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Payment:** SSLCommerz Gateway
 - **Deployment:** Vercel
 
-🔗 **[Live Demo](https://gymflowgym.vercel.app)** | **[GitHub Repo](https://github.com/abusaiyedjoy/Gym-Flow-Client)**
+🔗 **[Live Demo](https://gymflowgym.vercel.app)** | **[]**
 
 **Demo Credentials:**
 
-- **Member:** 143princejoy@gmail.com / 01988084185aA@
-- **Trainer:** abu.saidking@gmail.com / 01988084185aA@
-- **Admin:** abusaiyedjoy1@gmail.com / 01988084185aA@
+// - **Member:** 143princejoy@gmail.com / 01988084185aA@
+// - **Trainer:** abu.saidking@gmail.com / 01988084185aA@
+// - **Admin:** abusaiyedjoy1@gmail.com / 01988084185aA@
 
 ---
 
@@ -198,13 +198,13 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Auth:** JWT + bcrypt
 
-🔗 **[Live Demo](https://ride-booking-management.netlify.app)** | **[Source Code](#)**
+🔗 **[Live Demo](https://ride-booking-management.netlify.app)** | **[](#)**
 
 **Demo Credentials:**
 
-- **Rider:** 143princejoy@gmail.com / 01988084185aA@
-- **Driver:** abu.saidking@gmail.com / 01988084185aA@
-- **Admin:** abusaiyedjoy1@gamail.com / 12345678
+// - **Rider:** 143princejoy@gmail.com / 01988084185aA@
+// - **Driver:** abu.saidking@gmail.com / 01988084185aA@
+// - **Admin:** abusaiyedjoy1@gamail.com / 12345678
 
 ---
 
@@ -224,7 +224,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-rizvi/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](...)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email:rahmanrizvi422@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rizvi-dev.vercel.app/)
 
 </div>
