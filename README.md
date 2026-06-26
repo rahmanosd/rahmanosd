@@ -133,7 +133,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Payment:** Stripe integration
 - **Mobile:** Capacitor (Android/iOS), PWA
 
-🔗 **[Live Demo](https://carenest-web.vercel.app)** | **[](#)**
+🔗 **[Live Demo](https://carenest-web.vercel.app)**
 
 ---
 
@@ -162,15 +162,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Payment:** SSLCommerz Gateway
 - **Deployment:** Vercel
 
-🔗 **[Live Demo](https://gymflowgym.vercel.app)** | **[]**
-
-**Demo Credentials:**
-
-// - **Member:** 143princejoy@gmail.com / 01988084185aA@
-// - **Trainer:** abu.saidking@gmail.com / 01988084185aA@
-// - **Admin:** abusaiyedjoy1@gmail.com / 01988084185aA@
-
----
+🔗 **[Live Demo](https://gymflowgym.vercel.app)**
 
 ### 🚗 Ride Booking Management System
 
@@ -198,15 +190,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** wit
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Auth:** JWT + bcrypt
 
-🔗 **[Live Demo](https://ride-booking-management.netlify.app)** | **[](#)**
-
-**Demo Credentials:**
-
-// - **Rider:** 143princejoy@gmail.com / 01988084185aA@
-// - **Driver:** abu.saidking@gmail.com / 01988084185aA@
-// - **Admin:** abusaiyedjoy1@gamail.com / 12345678
-
----
+🔗 **[Live Demo](https://ride-booking-management.netlify.app)**
 
 ## 🏆 Achievements
 
